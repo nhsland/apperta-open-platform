@@ -14,18 +14,19 @@ Care Record (ICDR), and a Personal Health/
 Care Record (PHR/PCR).
 Current open platform implementations
 typically provide three linked repositories:
-•	 A demographics service, sometimes
+
+* A demographics service, sometimes
 described as a registry or master
 index containing basic demographic
 information about the subject of care.
-•	 A structured data repository A
+* A structured data repository A
 repository where highly structured
 information can be stored in an open
 shareable format. By far the most
 widely implemented examples of a
 structured data repositories are those
 based on the openEHR standard.
-•	 A “document” store, sometimes
+* A "document" store, sometimes
 described as a Vendor Neutral Archive
 (VNA). This is a repository to store
 documents and other unstructured
@@ -46,6 +47,7 @@ minimal viable configuration for an open
 platform (see section 9).
 
 6.3 Record Locator Services
+
 A record locator service provides an
 extension to a demographics service,
 enabling records to be located where
@@ -57,8 +59,8 @@ In the context of the NHS England, a
 record locator service is an obvious
 extension of the the Spine PDS.
 
-6.4 Resource Discovery and
-Scheduling
+6.4 Resource Discovery and Scheduling
+
 Applications will often need information
 about resources available to provide health
 and care services and be able to allocate
@@ -66,13 +68,9 @@ them or schedule their use for a particular
 patient and service user. The scope of
 such activities is very wide ranging and
 may include:
-•	 Requests for tests and investigations;
-•	 Referrals for advice or treatment;
-•	 GP appointments;
-•	 A nursing home bed; or
-•	 A home care visit.
 
-20
-November 2017
-
-
+* Requests for tests and investigations;
+* Referrals for advice or treatment;
+* GP appointments;
+* A nursing home bed; or
+* A home care visit.

@@ -9,7 +9,7 @@ it very difficult to adequately address
 them and breakout from promising
 prototype to minimum viable product.
 
-•	 Simple and complicated systems
+* Simple and complicated systems
 are deterministic: we can predict
 how changing a system’s inputs and
 parameters will affect the system’s
@@ -23,7 +23,7 @@ with very complicated systems.
 
 3.3 The Role of Platforms
 
-•	 In complex systems we can’t predict
+* In complex systems we can’t predict
 how changing a system’s inputs and
 parameters will affect the system’s
 behaviour. Complex systems

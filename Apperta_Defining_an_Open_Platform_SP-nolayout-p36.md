@@ -12,14 +12,16 @@ will meet the end user’s unique needs,
 and where each application will work
 seamlessly together. The application
 should be:
-•	 Interoperable - Able to share relevant
+
+* Interoperable - Able to share relevant
 data between themselves;
-•	 Orchestrated - Work together;
-•	 Form-factor agile - Adapt their UI to the
+* Orchestrated - Work together;
+* Form-factor agile - Adapt their UI to the
 form-factor of the device they are used
 on; and
-•	 UI/UX consistent - Operating with a
+* UI/UX consistent - Operating with a
 common look and feel.
+
 We make the case for open standards,
 components and frameworks at the UX/UI
 level of an open platform, very well aware
