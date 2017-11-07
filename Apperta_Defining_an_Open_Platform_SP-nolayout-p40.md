@@ -1,5 +1,3 @@
-# Apperta Foundation - Defining an Open Platform
-
 ## 9. Minimum Viable Open Platform (MVP)
 
 Here there is a lesson to be learnt from a related global initiative, known as [openHIE](https://ohie.org/), who are advocating a standards based, implementable and interchangeable [openHIE Architecture](https://wiki.ohie.org/display/documents/OpenHIE+Architecture) alongside [key related open source reference technologies](https://wiki.ohie.org/display/documents/OpenHIE+Architecture) to craft a Minimum Viable Open Platform for health and care.

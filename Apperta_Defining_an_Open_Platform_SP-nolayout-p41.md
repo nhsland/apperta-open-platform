@@ -1,5 +1,3 @@
-# Apperta Foundation - Defining an Open Platform - October 2017
-
 ## 10. Implementing an Open Platform Ecosystem
 
 Delivering the vision of an open platform is not about creating a single instance of a platform, but rather it is about creating an open platform ecosystem where a number of platform providers compete for business with each other.
