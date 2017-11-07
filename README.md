@@ -1,3 +1,3 @@
-Defining an Open Platform
+# Apperta Foundation - Defining an Open Platform
 
 
