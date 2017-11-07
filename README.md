@@ -1,14 +1,13 @@
-# Apperta Foundation - Defining an Open Platform
+# apperta-open-platform
 
-[Foreword](Apperta_Defining_an_Open_Platform_SP-nolayout-p02)
+## Goal
 
-[Executive Summary](executive-summary)
+## Getting started
 
+## References
 
+[How to Convert a PDF File to Editable Text Using the Command Line in Linux](https://www.howtogeek.com/228531/how-to-convert-a-pdf-file-to-editable-text-using-the-command-line-in-linux/)
 
+Extract text from each page to a file
 
-
-
-[9. Minimum Viable Open Platform (MVP)](Apperta_Defining_an_Open_Platform_SP-nolayout-p40)
-
-[10. Implementing an Open Platform Ecosystem](Apperta_Defining_an_Open_Platform_SP-nolayout-p41)
+`for i in {1..48}; do pdftotext -f $i -l $i Apperta_Defining_an_Open_Platform_SP.pdf Apperta_Defining_an_Open_Platform_SP-nolayout-p$i.txt; done`
