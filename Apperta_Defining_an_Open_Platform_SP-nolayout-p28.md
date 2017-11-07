@@ -7,8 +7,10 @@ is, portability for data and substitutability
 for applications so that neither gets locked
 into a particular vendor's platform.
 This requires standards in two areas:
-•	 Open Interface standards (APIs); and
-•	 Content standards.
+
+* Open Interface standards (APIs); and
+* Content standards.
+
 Before turning attention to these
 standards, we will consider the difference
 between technical and content-based

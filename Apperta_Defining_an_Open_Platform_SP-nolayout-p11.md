@@ -7,10 +7,10 @@ to change creating a high, often
 insurmountable, barrier to entry
 for innovative market entrants.
 
-•	 The decision process, due to the
+* The decision process, due to the
 number and varieties of types of
 parties involved in health and care
-•	 Non-determinance: there are
+* Non-determinance: there are
 generally no simple rules based
 approaches that can be applied to
 delivering health and care; and
@@ -23,7 +23,7 @@ complexity from individual developers
 to the platform we can stimulate the
 innovation and change we seek..
 
-•	 Information governance. Much of
+* Information governance. Much of
 the data is personal, and exchange
 and storage of information needs
 to be undertaken applying strict
@@ -45,7 +45,7 @@ the definitions from the Cynefin
 Framework and work based on it the
 health context by Dr Tony Shannon.
 
-•	 The data: clinical and care
+* The data: clinical and care
 data is complex. To create true
 “interoperability”, an open approach
 is required for defining data models;

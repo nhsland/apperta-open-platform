@@ -6,7 +6,7 @@ Recommendations and Next Steps
 We suggest that efforts towards an open platform already underway across the NHS
 and the wider world have all the hallmarks of a grassroots movement for change and so
 suggest the following steps to catalyse the efforts of those stakeholders involved.
-1.	 Establish a clinically led working
+1. Establish a clinically led working
 group, initially across the UK & Ireland,
 to progress this mission, working to
 align community efforts towards the
@@ -15,26 +15,26 @@ healthcare open platform working
 group should involve representatives
 from healthcare organisations and
 suppliers.
-2.	 Establish a custodian to maintain the
+1. Establish a custodian to maintain the
 definition of an open platform standard
 presented within this document and
 the standards adopted or created that
 flow from it. We suggest that we, the
 Apperta Foundation are well placed to
 assume this function..
-3.	 Define and prioritise additional
+1. Define and prioritise additional
 platform services that will add value
 to the open platform standard (those
 identified in section 6 and others
 identified by the community).
 
-4.	 Identify and if need be develop open
+1. Identify and if need be develop open
 APIs for additional services based on
 the openAPI spec. We suggest that
 INTEROPen is one of number of key
 organisations that could proactively
 contribute to this work..
-5.	 Establish a clinically led service for
+1. Establish a clinically led service for
 the development of clinical content
 definitions for the UK as part of an
 international collaboration based
@@ -43,7 +43,7 @@ Terminology. We suggest that the
 Professional Records Standards Body
 PRSB could perform this role within the
 UK.
-6.	 Adopt and support the development
+1. Adopt and support the development
 of open source components towards
 a reference implementation of an
 open platform to stimulate the global

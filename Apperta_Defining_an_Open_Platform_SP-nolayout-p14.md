@@ -28,15 +28,16 @@ Applications do?
 At an abstract level all health and care
 applications do either or both of the
 following:
-1.	 Support the processes that deliver care;
+1. Support the processes that deliver care;
 and/or
-2.	 Collect and/or analyse data to support
+1. Collect and/or analyse data to support
 the delivery of care.
+
 At a functional level, all health and care
 applications:
 1.	 Create, consume and update
 information about the subjects of care i.e. the health and care record;
-2.	 Consume and process knowledge i.e. data, metadata, care pathways,
+1.	 Consume and process knowledge i.e. data, metadata, care pathways,
 decision support rules and heuristics,
 etc.; and
 

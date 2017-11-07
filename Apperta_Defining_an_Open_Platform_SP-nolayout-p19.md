@@ -26,7 +26,8 @@ platform may choose to provide the
 assured records of such authorisations as
 a “Service” for its users.
 
-3. Authentication
+### 3. Authentication
+
 Authentication is concerned with
 the technical measures that allow
 an individual to access and use their
@@ -34,15 +35,13 @@ identity credentials, e.g. passwords, keys,
 biometrics, etc. Authentication is typically
 achieved by proving some combination of
 one or more of:
-•	 Something they know - a password or
-secret;
-•	 Something they have - a key, a smart
-card, or some other unique device; and
-or
-•	 Something about them - a fingerprint, a
-voice print or other biometric.
-Authentication services are a core part of
-an open platform implementation.
+
+* Something they know - a password or secret;
+* Something they have - a key, a smart card, or some other unique device;
+and/or
+* Something about them - a fingerprint, a voice print or other biometric.
+
+Authentication services are a core part of an open platform implementation.
 
 1919
 November

@@ -18,7 +18,7 @@ controller without hindrance from the
 controller to which the personal data has
 been provided
 
-•	 By virtue of it’s open data format, easily
+* By virtue of it’s open data format, easily
 satisfy the data portability requirement
 of GDPR
 
@@ -28,20 +28,20 @@ that don’t easily fit well with existing
 regulatory frameworks (e.g. co-produced
 PHR and multi-organisational records
 under shared governance.)
-•	 An open platform approach can help
+
+* An open platform approach can help
 address these challenges in a number
 of ways:
-•	 By providing platform service to
+* By providing platform service to
 address a number of IG issues, thus
 relieving the application developer
 from the burden. E.g.
-•	
-•	 Identity assurance
-•	 Attribute based access control
-•	 Authentication
-•	 Federated consent management
-•	 Audit trails
-•	 By providing protected gateways to
+  * Identity assurance
+  * Attribute based access control
+  * Authentication
+  * Federated consent management
+  * Audit trails
+* By providing protected gateways to
 underlying systems, removing much of
 the cyber security burden from them
 

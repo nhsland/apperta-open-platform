@@ -9,11 +9,13 @@ principles.
 Creating connectors with legacy systems
 requires that three distinct aspects are
 addressed:
-1.	 Technical and informatics issues;
-2.	 Commercial agreement with system
+
+1. Technical and informatics issues;
+1. Commercial agreement with system
 vendors; and
-3.	 Access agreement with the data
+1. Access agreement with the data
 controller and/or data subject and IG.
+
 Where an open platform offers legacy
 connectors to its users, it has the potential
 to address (at least in some part) all
@@ -23,9 +25,10 @@ users as it will remove many aspects
 that are presently a significant barrier to
 application development.
 
-6.6.1 Technical and Informatics
-issues
+6.6.1 Technical and Informatics issues
+
 1. Technical Issues
+
 Technical issues include technical
 mappings and transforms to allow legacy
 system connectors to be exposed by way
@@ -34,9 +37,7 @@ GraphQL emerging). The mapping may
 involve older API technologies on the
 legacy system (e.g. SOAP, WSDL, etc.); or
 it may involve exposing non-API based
-interfaces on legacy systems as a modern
-
-API.
+interfaces on legacy systems as a modern API.
 Legacy interfaces were often designed for
 limited use by a few trusted developers,
 and they frequently lack the management,
