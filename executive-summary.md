@@ -1,6 +1,6 @@
 ---
 title: Executive Summary
-layout: page
+layout: default
 ---
 ### Failure of the present approach to IT
 Healthcare systems around the world
