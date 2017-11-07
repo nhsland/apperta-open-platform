@@ -1,5 +1,3 @@
-# Apperta Foundation - Defining an Open Platform
-
 ## Foreword
 
 Health and care faces a crisis, with growing demands and spiralling costs. In other sectors we have seen digital technology transform the way services are delivered, but so far, despite substantial investment, such transformational effects have eluded us in health and care.
@@ -25,3 +23,5 @@ Mr Bill Aylward MA MB BChir FRCS FRCOphth MD, Chair Apperta Foundation
 
 Dr Rebecca Wassall PhD, CEO Apperta, Clinical Lecturer / StR in Special Care Dentistry
 Newcastle University
+
+[Home](README)
