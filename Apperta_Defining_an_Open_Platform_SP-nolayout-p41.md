@@ -13,7 +13,7 @@ business with each other.
 There are various models that might
 emerge for the creation of an open
 platform ecosystem. These include:
-•	 The establishment of an open health
+* The establishment of an open health
 and care commons/marketplace for
 open platform oriented components
 and services. The 1% Open Digital
@@ -25,7 +25,7 @@ emerging from the internationally
 leading PATH NGO who lead on
 openHIE is one other thought leading
 example.
-•	 Local health and care communities
+* Local health and care communities
 providing a platform instance for their
 populations - This model may well fit
 well within the UK context, with the
@@ -36,13 +36,13 @@ starting point (in England). This
 mirrors the current approach taken by
 STPs for Integrated Digital Care Record
 systems;
-•	 Individual patients deciding where
+* Individual patients deciding where
 they want to store their health data and
 to whom they grant access - This is a
 patient centric approach and mirrors
 emerging Personal Health Record
 (PHR) systems.
-•	 A focus on a particular subset of
+* A focus on a particular subset of
 patients, for example those with a
 specific disease. This mirrors current
 approaches with disease registries.

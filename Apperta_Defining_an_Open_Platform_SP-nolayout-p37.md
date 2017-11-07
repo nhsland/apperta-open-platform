@@ -33,15 +33,11 @@ they offer significant flexibility and could
 be augmented with specific health and
 care specific UI components. Frameworks
 of note include:
-•	
-•	
-•	
-•	
 
-Bootstrap;
-Angular JS;
-React;
-Semantic UI
+* Bootstrap;
+* Angular JS;
+* React;
+* Semantic UI
 
 What all of these frameworks have in
 common is that they are open source

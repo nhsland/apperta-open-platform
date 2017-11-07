@@ -1,16 +1,10 @@
 Apperta Foundation - Defining an Open Platform - October 2017
 
-•	
-•	
-•	
-•	
-•	
-
-Read 2
-CVT3
-LOINC
-ICPC
-dm+d19
+* Read 2
+* CVT3
+* LOINC
+* ICPC
+* dm+d19
 
 representing clinical content in an open
 platform ecosystem.

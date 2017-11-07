@@ -24,23 +24,15 @@ SNOMED CT, openEHR and IHE-XDS.
 The 8 principles of an open platform
 An open platform adheres to the
 following eight principles:
-1.	
-2.	
-3.	
-4.	
-5.	
-6.	
-7.	
-8.	
 
-Open Standards Based
-Shared Common Information Models
-Supporting Application Portability
-Federatable
-Vendor and Technology Neutral
-Supporting Open Data
-Providing Open APIs
-Operability (as in DevOps)
+1. Open Standards Based
+1. Shared Common Information Models
+1. Supporting Application Portability
+1. Federatable
+1. Vendor and Technology Neutral
+1. Supporting Open Data
+1. Providing Open APIs
+1. Operability (as in DevOps)
 
 Information Governance
 and Cyber Security
@@ -63,7 +55,9 @@ help address these challenges by
 providing tools and services to deal
 with IG and security issues so the
 app developer does not have to.
-Vision
+
+# Vision
+
 The endgame is to create an open
 ecosystem that will drive competition
 at the application, service and platform

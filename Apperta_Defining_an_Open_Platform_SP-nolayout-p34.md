@@ -78,8 +78,9 @@ support mappings between them where
 this is relevant. Terminologies and
 classification in addition to SNOMED CT
 that should be considered include:
-•	 ICD9
-•	 ICD10
+
+* ICD9
+* ICD10
 
 34
 October 2017

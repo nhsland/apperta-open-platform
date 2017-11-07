@@ -42,7 +42,7 @@ available to the developer community and
 has already proven a number of prototype
 applications.
 
-•	 Authentication services;
+* Authentication services;
 
 A second notable MVP is that of the Ripple
 Foundation. This incorporates an open
@@ -51,12 +51,10 @@ open source integration framework on
 an open source openEHR Clinical Data
 Repository..
 
-•	 Master Patient Index (demographic
-service);
-•	 Service Directory (staff and services)
+* Master Patient Index (demographic service);
+* Service Directory (staff and services)
 and
-•	 Clinical Data Repository (CDR) based
-on openEHR
+* Clinical Data Repository (CDR) based on openEHR
 
 40
 November 2017
