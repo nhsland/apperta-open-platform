@@ -1,9 +1,8 @@
 ---
-title: Contents
 layout: default
 ---
 
-[Foreword](Apperta_Defining_an_Open_Platform_SP-nolayout-p02)
+[Foreword](Apperta_Defining_an_Open_Platform_SP-nolayout-p02)
 
 [Executive Summary](executive-summary)
 
