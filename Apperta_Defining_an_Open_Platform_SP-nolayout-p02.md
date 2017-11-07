@@ -13,7 +13,7 @@ We believe that open digital platforms based on open standards can lower barrier
 
 This is not just our view but one shared by global experts and the major consultancies. More than this, it is an approach that has already been proven at scale elsewhere.
 
-We want to create an ecosystem where health and care communities can deploy and scale up an open platform implementation confident that the data they store in it and the applications that run on it are portable to any other implementation. This requires an unambiguous definition of what we mean by an open platform and the standards on which it should be based.
+We want to creatApperta_Defining_an_Open_Platform_SP-nolayout-p40e an ecosystem where health and care communities can deploy and scale up an open platform implementation confident that the data they store in it and the applications that run on it are portable to any other implementation. This requires an unambiguous definition of what we mean by an open platform and the standards on which it should be based.
 
 This document is an attempt to propose such a definition, based on standards that have been proven to work worldwide including HL7 FHIR, SNOMED-CT, IHE_XDS and openEHR.
 
@@ -24,4 +24,4 @@ Mr Bill Aylward MA MB BChir FRCS FRCOphth MD, Chair Apperta Foundation
 Dr Rebecca Wassall PhD, CEO Apperta, Clinical Lecturer / StR in Special Care Dentistry
 Newcastle University
 
-[Home](/)
+[Home](README)
