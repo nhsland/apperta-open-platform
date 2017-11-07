@@ -24,4 +24,4 @@ Mr Bill Aylward MA MB BChir FRCS FRCOphth MD, Chair Apperta Foundation
 Dr Rebecca Wassall PhD, CEO Apperta, Clinical Lecturer / StR in Special Care Dentistry
 Newcastle University
 
-[Home](README)
+[Home](/apperta-open-platform/)
