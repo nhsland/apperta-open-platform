@@ -1,7 +1,8 @@
-## Executive Summary
-
+---
+title: Executive Summary
+layout: page
+---
 ### Failure of the present approach to IT
-
 Healthcare systems around the world
 are under increasing pressure and
 while there is a widespread belief that
