@@ -1,4 +1,7 @@
-# apperta-open-platform
+# Defining an Open Platform
+The Apperta Foundation is a not-for-profit community interest company supported by NHS England and NHS Digital (HSCIC) 
+
+They produced a document called “Defining an Open Platform” to make the case for open platforms and lay out a blueprint for an open platform architecture at a level of detail that would allow any willing party to build a first generation implementation of an open platform that would be interoperable with any other.
 
 ## Goal
 
