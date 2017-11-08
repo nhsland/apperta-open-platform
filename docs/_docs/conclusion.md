@@ -1,9 +1,8 @@
 ---
-title: Conclusion
+title: Conclusion, Recommendations and Next Steps
 permalink: /docs/conclusion/
 comments: true
 ---
-### Recommendations and Next Steps
 We suggest that efforts towards an open platform already underway across the NHS
 and the wider world have all the hallmarks of a grassroots movement for change and so
 suggest the following steps to catalyse the efforts of those stakeholders involved.
