@@ -19,6 +19,7 @@ layout: default
             </p>
             <hr>
 
+            {% if page.comments %}
             <div id="disqus_thread"></div>
             <script>
 
@@ -41,7 +42,8 @@ layout: default
             <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
             <hr>
-
+            {% endif %}
+            
             {% include section_nav.html %}
         </div>
 

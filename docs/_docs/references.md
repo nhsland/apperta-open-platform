@@ -1,7 +1,7 @@
 ---
 title: References
 permalink: /docs/references/
-comments: true
+comments: false
 ---
 1. McKinsey and Co ["How healthcare systems can become digital-health leaders"](https://
 www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/howhealthcare-systems-can-become-digital-health-leaders)
