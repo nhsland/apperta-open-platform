@@ -3,12 +3,12 @@ title: Introduction
 permalink: /docs/introduction/
 comments: true
 ---
-While IT systems are pervasive across
+**While IT systems are pervasive across
 health and care organisations, health
 care systems around the world are
 under pressure and have not generated
 the widespread transformation
-found in other market sectors.
+found in other market sectors.**
 
 This is despite the broad
 acknowledgement that digital
