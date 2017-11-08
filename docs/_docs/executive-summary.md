@@ -4,13 +4,13 @@ permalink: /docs/executive-summary/
 comments: true
 ---
 ### Failure of the present approach to IT
-Healthcare systems around the world
+**Healthcare systems around the world
 are under increasing pressure and
 while there is a widespread belief that
 digital technologies have the potential
 to have a transformational impact, as
 they have in other sectors we are yet to
-see this in health and care. This failure
+see this in health and care.** This failure
 flows from the complexity (technical,
 cultural, and regulatory) of the health
 and care environment which creates
@@ -25,11 +25,11 @@ market and through this, supporting
 the injection of innovation.
 
 ### An 11% saving of national healthcare costs
-McKinsey and Co have projected that
+**McKinsey and Co have projected that
 health and care systems implementing
 an open innovation platform can save
 more than 11% of total national healthcare
-costs, [a view supported by others](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-healthcare-systems-can-become-digital-health-leaders).
+costs**, [a view supported by others](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-healthcare-systems-can-become-digital-health-leaders).
 
 ### Open platforms supporting 12 million patients already exist!
 There are a number of large-scale
@@ -67,19 +67,19 @@ care an extraordinarily difficult market
 for a new entrant to get a foothold in.
 
 ### An open platform breaks the mould!
-Open platforms liberate both data and
+**Open platforms liberate both data and
 applications making them portable
 and interoperable across different
-platform implementations.
+platform implementations.**
 
 ### Away with vendor lock-in!
 An open platform is based on open standards.
 So any application built for an open platform,
 will operate on any open platform.
 
-The open platforms approach is vendor and
+**The open platforms approach is vendor and
 technology neutral, eliminates lock-in, facilitates
-innovation and competition, and forces vendors
+innovation and competition**, and forces vendors
 to compete on quality, value, and service.
 
 ### What does an open platform look like?
@@ -102,9 +102,9 @@ good at - creating applications!
 There are potentially many hundreds
 of possible platform services, but a
 minimum viable platform needs only
-support a handful of services based
+support a handful of services **based
 on the core standards of HL7 FHIR,
-SNOMED CT, openEHR and IHE-XDS.
+SNOMED CT, openEHR and IHE-XDS.**
 
 ### The 8 principles of an open platform
 An open platform adheres to the
