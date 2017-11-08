@@ -3,9 +3,20 @@ The Apperta Foundation is a not-for-profit community interest company supported 
 
 They produced a document called “Defining an Open Platform” to make the case for open platforms and lay out a blueprint for an open platform architecture at a level of detail that would allow any willing party to build a first generation implementation of an open platform that would be interoperable with any other.
 
-## Goal
+The document is a PDF. Commenting on the document is handled by User Voice. 
+
+I think there is room for improvement.
+
+## Goals
+- open source the document
+- add discussion thingummy
 
 ## Getting started
+- fork the repo
+- open the PDF
+- pick a section from the document 
+- make a new page in 'docs/_docs' for the section
+- use executive-summary.md as a template 
 
 ## References
 
