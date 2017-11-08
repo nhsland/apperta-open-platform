@@ -28,7 +28,7 @@ McKinsey and Co have projected that
 health and care systems implementing
 an open innovation platform can save
 more than 11% of total national healthcare
-costs, a view supported by others<sup id="a1">[1](#f1)</sup>.
+costs, [a view supported by others](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-healthcare-systems-can-become-digital-health-leaders).
 
 ### Open platforms supporting 12 million patients already exist!
 There are a number of large-scale
@@ -182,7 +182,3 @@ the issues that need to be resolved to
 promote the growth of an open digital
 ecosystem for health and social care
 and how these might be addressed.
-
-[Home](/apperta-open-platform/)
-
-<b id="f1">1</b> [McKinsey and Co "How healthcare systems can become digital-health leaders"](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-healthcare-systems-can-become-digital-health-leaders) [↩](#a1)
