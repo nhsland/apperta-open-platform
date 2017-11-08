@@ -1,6 +1,7 @@
 ---
 title: Executive Summary
 permalink: /docs/executive-summary/
+comments: true
 ---
 ### Failure of the present approach to IT
 Healthcare systems around the world

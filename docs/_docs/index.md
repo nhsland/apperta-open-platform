@@ -2,6 +2,7 @@
 title: Foreword
 permalink: /docs/home/
 redirect_from: /docs/index.html
+comments: true
 ---
 Health and care faces a crisis, with growing demands and spiralling costs. In other sectors we have seen digital technology transform the way services are delivered, but so far, despite substantial investment, such transformational effects have eluded us in health and care.
 
