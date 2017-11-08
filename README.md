@@ -28,7 +28,7 @@ I think there is room for improvement.
 - platform-services
 - standards-for-an-open-platform
 - information-governance-and-cyber-security
-- minimum-viable-open-platform
+- ~~minimum-viable-open-platform~~
 - ~~implementing-an-open-platform-ecosystem~~
 - ~~conclusion~~
 - ~~acknowledgements~~
