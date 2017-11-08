@@ -23,7 +23,7 @@ I think there is room for improvement.
 - ~~executive-summary~~
 - ~~introduction~~
 - ~~why-an-open-platform~~
-- proposed-definition-of-an-open-platform
+- ~~proposed-definition-of-an-open-platform~~
 - ~~open-platform-architecture~~
 - platform-services
 - standards-for-an-open-platform
@@ -31,7 +31,7 @@ I think there is room for improvement.
 - minimum-viable-open-platform
 - ~~implementing-an-open-platform-ecosystem~~
 - ~~conclusion~~
-- acknowledgements
+- ~~acknowledgements~~
 - ~~references~~
 
 ## References
