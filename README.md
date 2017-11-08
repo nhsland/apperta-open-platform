@@ -12,11 +12,11 @@ I think there is room for improvement.
 - add discussion thingummy
 
 ## Getting started
-- fork the repo
-- open the PDF
-- pick a section from the document 
-- make a new page in 'docs/_docs' for the section
-- use executive-summary.md as a template 
+- fork the repo and clone it
+- open the PDF and pick a section of the document to convert 
+- make a new page in 'docs/_docs' for the section you have chosen by duplicating template.md
+- using the text files in source_files copy and paste the text from the relevant pages into the new document 
+
 
 ## References
 
