@@ -26,7 +26,7 @@ I think there is room for improvement.
 - ~~proposed-definition-of-an-open-platform~~
 - ~~open-platform-architecture~~
 - platform-services
-- standards-for-an-open-platform
+- ~~standards-for-an-open-platform~~
 - ~~information-governance-and-cyber-security~~
 - ~~minimum-viable-open-platform~~
 - ~~implementing-an-open-platform-ecosystem~~
