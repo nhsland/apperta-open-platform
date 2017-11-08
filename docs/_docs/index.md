@@ -1,50 +1,27 @@
 ---
-title: Welcome
+title: Foreword
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
+Health and care faces a crisis, with growing demands and spiralling costs. In other sectors we have seen digital technology transform the way services are delivered, but so far, despite substantial investment, such transformational effects have eluded us in health and care.
 
-## Getting started
+The Apperta Foundation believes innovative technologies can achieve the transformation that we seek, yet if we want a different outcome from future investment we are going to have to do things differently and break away from 20th Century technology and business models that lock data in proprietary formats and customers into obsolete systems.
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published in the webpage instantly.
+Change requires innovation and innovation does not come from the incumbent players. If we look to other sectors we can see that it was Amazon not Foyles, eBay not Exchange and Mart, Wikipedia not Encyclopedia Britannica that transformed their sectors through digital innovation.
 
-1. Just download the source from [github.com/aksakalli/jekyll-doc-theme](https://github.com/aksakalli/jekyll-doc-theme/master) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project.
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
+In health and care, the complexity of the environment in terms of the informatics, regulation governance and culture make the barriers to entry for innovative new players much higher than
+they were in other sectors In health and care we have seen no new entrants to the market reach discernible scale in the last twenty-five years.
 
-## Writing content
+We believe that open digital platforms based on open standards can lower barriers to entry, stimulate innovation and enable successful startups rapidly get to scale.
 
-### Docs
+This is not just our view but one shared by global experts and the major consultancies. More than this, it is an approach that has already been proven at scale elsewhere.
 
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
+We want to create an ecosystem where health and care communities can deploy and scale up an open platform implementation confident that the data they store in it and the applications that run on it are portable to any other implementation. This requires an unambiguous definition of what we mean by an open platform and the standards on which it should be based.
 
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
+This document is an attempt to propose such a definition, based on standards that have been proven to work worldwide including HL7 FHIR, SNOMED-CT, IHE_XDS and openEHR.
 
-```
----
-title: My Page
-permalink: /docs/my-page/
----
+We put this document forward as a blueprint to enable and support those pioneers keen to progress on the journey to take digital health and care into the 21st Century.
 
-Hello World!
-```
+Mr Bill Aylward MA MB BChir FRCS FRCOphth MD, Chair Apperta Foundation
 
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
-
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
-### Pages
-
-The home page is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap componenets](http://getbootstrap.com/components/))
-
-In order to add a new page, create a new html or markdown file under root directory and link it in `_includes/topnav.html`.
+Dr Rebecca Wassall PhD, CEO Apperta, Clinical Lecturer / StR in Special Care Dentistry at Newcastle University
